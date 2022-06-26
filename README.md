@@ -37,4 +37,4 @@ Refractored Script
 
 Refractoring code, while making existing code more efficient, can also be time consuming for the person doing it for already working code, as it involves trying to streamline and remove unnecessary steps in a script.
 
-In the case of this particular analysis, refractoring the original script did make the operation run faster and reduce the length of the macro from condensing steps and joining code. It can, however, be difficult and time consuming for individuals to refractor the script by trying to figure what can be taken out or adjusted to be more streamlined.
+In the case of this particular analysis, refractoring the original script did make the operation run faster and reduce the length of the macro from condensing steps and joining code. It can, however, be difficult and time consuming for individuals to refractor the script by trying to figure what can be taken out or adjusted to be more streamlined, sometimes requiring more extensive debugging than the original script.
