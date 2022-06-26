@@ -13,18 +13,22 @@ According to the data generated, 2017 had a much better rate of return versus 20
 
 Additionally, when we compare the time it took our original script to loop through the data versus our refractored script, we can see that it did take less time with the refractored script generating through the loop.
 
-##### Data for 2018
+## Data for 2018
+Original Script
 ![OG_Script_2018](OG_Script_2018.png)
+Refractored Script
 ![VBA_Challenge_2018](VBA_Challenge_2018.png)
 
-##### Data for 2017
+## Data for 2017
+Orignial Script
 ![OG_Script_2017](OG_Script_2017.png)
+Refractored Script
 ![VBA_Challenge_2017](VBA_Challenge_2017.png)
 
-##### Code for refractored script
+## Code for refractored script
 ![VBA_Challenge_Code](VBA_Challenge_Code.png)
 
 
-##### Advantages and Disadvantages
+## Advantages and Disadvantages
 
 Refractoring code
