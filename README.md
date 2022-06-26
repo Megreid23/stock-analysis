@@ -16,11 +16,13 @@ Additionally, when we compare the time it took our original script to loop throu
 ## Data for 2018
 Original Script
 ![OG_Script_2018](OG_Script_2018.png)
+
+
 Refractored Script
 ![VBA_Challenge_2018](VBA_Challenge_2018.png)
 
 ## Data for 2017
-Orignial Script
+ Orignial Script
 ![OG_Script_2017](OG_Script_2017.png)
 Refractored Script
 ![VBA_Challenge_2017](VBA_Challenge_2017.png)
