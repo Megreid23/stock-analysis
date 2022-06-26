@@ -23,3 +23,8 @@ Additionally, when we compare the time it took our original script to loop throu
 
 ##### Code for refractored script
 ![VBA_Challenge_Code](VBA_Challenge_Code.png)
+
+
+##### Advantages and Disadvantages
+
+Refractoring code
