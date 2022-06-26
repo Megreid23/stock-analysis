@@ -7,5 +7,5 @@ The purpose of this study and analysis is to provide relevant data to a client i
 ## Results
 
 According to the data generated, 2017 had a much better rate of return versus 2018.
-![2017_Table](2017 Table.png)
-![2018_Table](2018 Table.png)
+![2017_Table](2017_Table.png)
+![2018_Table](2018_Table.png)
